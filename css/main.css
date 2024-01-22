@@ -1,0 +1,29 @@
+.up{
+	margin:20 px;
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	height: 100%;
+}
+li {
+  list-style-type: none;
+  /* Убираем маркеры */
+}
+html,body{
+	height: 100%;
+}
+h1{
+	text-align: center;
+}
+.ryad{
+	font-size: 20px;
+	text-align: center;
+}
+.upper{
+height: 100px;
+width: 100px;
+background: url(https://sun9-31.userapi.com/impg/m5o7kTuZ8R3gvWZwwg5_15ze-bBa1-BCQEQTAA/CyWJMMRaQ24.jpg?size=591x591&quality=95&sign=a5dd8b9a92edf8ba2e2c5ce28621f10f&type=album);
+background-size: cover;
+position: fixed;
+}
